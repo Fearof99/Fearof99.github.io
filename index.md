@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://fearof99.github.io/IMG_0880.jpg" class="floatpic" width="500" height="500">
+<img src="https://fearof99.github.io/IMG_0880.jpg" class="floatpic" width="800" height="800">
 
 Here is **Andrew Du**.
 
