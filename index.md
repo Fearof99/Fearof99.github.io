@@ -27,7 +27,7 @@ I am a Master of Engineering student majoring in **Mechanical & Industrial Engin
 
 - Human-computer Interaction(HCI)
 - Human-AI Interaction
-- Applied Machine Learning
+- Machine Learning
 
 My current research focuses on the interaction of HCI with other fields and helps develop supporting tools. My interests are in the **HCI**. I wish to devote my talent to this meaningful cause and bring well-being to society. I am interested in developing tools to assist individuals' daily lives. 
 
