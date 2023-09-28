@@ -17,7 +17,7 @@ I am a Master of Engineering student majoring in **Mechanical & Industrial Engin
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
 
 - **Sep 2022 - Nov 2023:** University of Toronto (MEng)
-- **Sep 2018 - May 2022:** Maynooth University (BSc)
+- **Sep 2018 - May 2022:** University of Toronto (BSc)
 
 <br>
 
@@ -29,7 +29,7 @@ I am a Master of Engineering student majoring in **Mechanical & Industrial Engin
 - Human-AI Interaction
 - Applied Machine Learning
 
-My current research focuses on the interaction of HCI with other fields and helps develop supporting tools. My interests are in the **HCI**. I wish to devote my talent to this meaningful cause and bring well-being to society. I am interested in developing tools to assist individuals' daily lives.
+My current research focuses on the interaction of HCI with other fields and helps develop supporting tools. My interests are in the **HCI**. I wish to devote my talent to this meaningful cause and bring well-being to society. I am interested in developing tools to assist individuals' daily lives. 
 
 <br>
 
