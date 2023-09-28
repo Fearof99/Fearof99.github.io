@@ -14,7 +14,7 @@ I am a Master of Engineering student majoring in **Mechanical & Industrial Engin
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for Ph.D. to start in 2024 Fall. **
 
 - **Sep 2022 - Nov 2023:** University of Toronto (MEng)
 - **Sep 2018 - May 2022:** University of Toronto (BSc)
